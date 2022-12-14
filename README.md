@@ -1,4 +1,4 @@
-# Youtube Song Downloader ▶️ 📥
+# YT Song Downloader ▶️ 📥
 
 A simple python flask application to download youtube songs and send them to specified email id.
 
