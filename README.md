@@ -2,7 +2,7 @@
 
 A simple python flask application to download youtube songs and send them to specified email id.
 
-Deployed at http://thisisnaman.pythonanywhere.com/
+Deployed at http://blackbeard99.pythonanywhere.com/
 
 ## Dependencies
 
@@ -22,7 +22,7 @@ pip install pydub
 
 ## Screenshots 
 
-<img src='ss.jpg'/>
+<img src='ss.jpg.png'/>
 
 
 ## Made with ❤️</>
