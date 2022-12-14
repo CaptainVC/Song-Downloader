@@ -22,7 +22,7 @@ pip install pydub
 
 ## Screenshots 
 
-<img src='ss.jpg.png'/>
+<img src='ss.jpg'/>
 
 
 ## Made with ❤️</>
